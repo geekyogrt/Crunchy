@@ -24,9 +24,9 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-43259614-1
-google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
+bing_verify:        5C0A234F20B082B8A5FD7AEF50CB08A5
 
 # Links to include in top navigation
 # For external links add external: true
